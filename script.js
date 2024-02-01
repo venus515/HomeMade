@@ -1,4 +1,7 @@
-const searchbox = document.querySelector('.searchbox');
+
+     
+
+ const searchbox = document.querySelector('.searchbox');
 const searchbtn = document.querySelector('.searchbtn');
 const recipeContainer = document.querySelector('.recipe-container');
 const recipedetailscontent = document.querySelector('.recipe-details-content');
@@ -85,5 +88,8 @@ searchbtn.addEventListener('click', (e) => {
     fetchRecipes(searchinput);
 
 }); 
+
+
+
 
 
