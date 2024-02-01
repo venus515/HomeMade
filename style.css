@@ -6,8 +6,8 @@
 }
 body{
     
-    background-color: #000000;
-color: aliceblue;
+    background-color: white;
+color: black;
 
 }
 body::-webkit-scrollbar{
@@ -39,7 +39,7 @@ border-radius: 100%;
 
 } 
 header nav{
-    background-color:#317773;
+    background-color:#cb7fc6;
     padding: 20px;
     display: flex;
     justify-content: space-between;
